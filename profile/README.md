@@ -4,7 +4,7 @@
 
 Every game has the same goal: merge twin numbers until you build **4096**. The "x" is the variety: each game plays a different way, from sliding and stacking to shooting, turning and placing.
 
-- 78+ games, with new ones added often
+- New games added often
 - No download, no sign-up
 - Works on phones, tablets and computers
 
